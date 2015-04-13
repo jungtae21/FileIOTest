@@ -1,0 +1,5 @@
+111111,hyuna,H,A,Q
+222222,suzy,M
+333333,mina,L,NA,Q
+444444,IU,L,NA,Q
+555555,taehee,M
